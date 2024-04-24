@@ -1,5 +1,5 @@
 # Task :- 03
-# Build a Temprature Converter
+# Temprature Converter
 
 ## Description:
 This Python program is a temperature converter that allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin units. It provides a simple command-line interface for users to select the desired conversion option and input temperature values, after which the program accurately converts the temperatures to the other two units and displays the results.
